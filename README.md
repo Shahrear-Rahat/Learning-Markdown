@@ -2,5 +2,6 @@
 ECE 1203 Semester Final Topics
 </h1>
 
-## Taking Note from Ma'am Slide  
--- Hi
+## Taking Note from Ma'am Slide 
+
+1. What do you mean by OOP?
