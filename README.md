@@ -1,4 +1,4 @@
-<div align=centre>
+<p align=centre>
 # ECE 1203 Semester Final Topics
-</div>
+</p>
 
